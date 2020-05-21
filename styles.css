@@ -1,0 +1,143 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+    display: block;
+}
+
+html {
+    overflow-x: hidden; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 0.6em;
+}
+
+#title {
+    padding-top: 1em;
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+#title {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    padding-top: 3rem;
+}
+
+#Description {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 0.6em;
+}
+
+figure {
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    background-color: white;
+    padding-bottom: 1em;
+    max-width: 100%;
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+    font-size: 0.65em;
+}
+
+#image {
+    padding-top: 1em;
+    width: 100%;
+    height: auto;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+section {
+    display: block;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin: auto;
+    width: 70%;
+    padding-inline-start: 40px;
+}
+
+li {
+    margin: 16px 0;
+    font-size: 0.6em;
+    justify-content: center;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+#headline {
+    font-size: 0.7em;
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: auto;
+    text-align: left;
+}
+
+blockquote {
+    display: block;
+    margin: auto;
+    padding-top: 0.6em;
+    font-size: 1em;
+}
+
+cite {
+    font-style: italic;
+    font-size: 0.6em;
+}
+
+#readmore {
+    font-size: 0.7em;
+    padding-bottom: 2em;
+    padding-top: 1em;
+}
+
